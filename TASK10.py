@@ -10,3 +10,10 @@ for i in st:
 print(ans)
 print(type(ans))
 
+string="python"
+str=""
+
+for i in string:
+    str=i+str
+print(str)
+
